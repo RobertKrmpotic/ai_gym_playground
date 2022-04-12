@@ -11,6 +11,9 @@ tensorflow = "^2.8.0"
 ipykernel = "^6.12.1"
 pygame = "^2.1.2"
 box2d-py = "^2.3.8"
+pandas = "^1.4.2"
+matplotlib = "^3.5.1"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.12.1"
